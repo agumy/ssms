@@ -1,0 +1,49 @@
+{
+  "spells": [
+    {
+      "id": "teleport",
+      "name": "teleport",
+      "cooldown": "180"
+    },
+    {
+      "id": "flash",
+      "name": "flash",
+      "cooldown": "300"
+    },
+    {
+      "id": "heal",
+      "name": "heal",
+      "cooldown": "240"
+    },
+    {
+      "id": "cleanse",
+      "name": "cleanse",
+      "cooldown": "210"
+    },
+    {
+      "id": "exhaust",
+      "name": "exhaust",
+      "cooldown": "210"
+    },
+    {
+      "id": "ghost",
+      "name": "ghost",
+      "cooldown": "210"
+    },
+    {
+      "id": "barrier",
+      "name": "barrier",
+      "cooldown": "180"
+    },
+    {
+      "id": "ignite",
+      "name": "ignite",
+      "cooldown": "180"
+    },
+    {
+      "id": "smite",
+      "name": "smite",
+      "cooldown": "90"
+    }
+  ]
+}
